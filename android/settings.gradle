@@ -1,0 +1,3 @@
+rootProject.name = 'VoltaChallenge'
+
+include ':app'
